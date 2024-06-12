@@ -1,0 +1,14 @@
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\bin\Debug\net7.0\ReverseShell.exe
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\bin\Debug\net7.0\ReverseShell.deps.json
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\bin\Debug\net7.0\ReverseShell.runtimeconfig.json
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\bin\Debug\net7.0\ReverseShell.dll
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\bin\Debug\net7.0\ReverseShell.pdb
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\ReverseShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\ReverseShell.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\ReverseShell.AssemblyInfo.cs
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\ReverseShell.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\ReverseShell.dll
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\refint\ReverseShell.dll
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\ReverseShell.pdb
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\ReverseShell.genruntimeconfig.cache
+C:\Users\valen\OneDrive\Escritorio\Cacic\Investigacion 1 Malware\Codigo\codigoC#\ReverseShell\ReverseShell\obj\Debug\net7.0\ref\ReverseShell.dll
